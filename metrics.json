@@ -1,0 +1,13 @@
+{
+  "system": "telemetry-engine",
+  "maintainer": "Pranjal Das (@iPranjalDas)",
+  "status": "HEALTHY",
+  "samples": [
+    {
+      "timestamp": "2026-09-20 18:25:00 IST",
+      "latency_ms": 18,
+      "memory_pct": 21.4,
+      "status": "OPTIMAL"
+    }
+  ]
+}
