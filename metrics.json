@@ -4,6 +4,13 @@
   "status": "HEALTHY",
   "samples": [
     {
+      "timestamp": "2026-09-21 12:55:27 AM IST",
+      "latency_ms": 24,
+      "memory_pct": 19.6,
+      "buffer_health": "99.96%",
+      "status": "OPTIMAL"
+    },
+    {
       "timestamp": "2026-09-20 06:30:06 PM IST",
       "latency_ms": 26,
       "memory_pct": 24.3,
