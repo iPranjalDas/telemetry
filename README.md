@@ -12,10 +12,10 @@
 ### 📊 Live System Metrics
 | Metric | Current State | Target Threshold | Status |
 | :--- | :---: | :---: | :---: |
-| **API Response Latency** | `31 ms` | `< 50 ms` | `OPTIMAL 🟢` |
+| **API Response Latency** | `35 ms` | `< 50 ms` | `OPTIMAL 🟢` |
 | **Telemetry Buffer Health** | `99.94%` | `> 99.0%` | `HEALTHY 🟢` |
-| **Memory Allocation Index** | `24.9%` | `< 40.0%` | `NOMINAL 🟢` |
-| **Last Calibration** | `2026-09-29 10:08:16 PM IST` | `Continuous` | `SYNCHRONIZED 🟢` |
+| **Memory Allocation Index** | `26.8%` | `< 40.0%` | `NOMINAL 🟢` |
+| **Last Calibration** | `2026-09-29 10:54:17 PM IST` | `Continuous` | `SYNCHRONIZED 🟢` |
 
 ---
 
